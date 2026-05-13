@@ -68,37 +68,4 @@ CREATE TABLE Patient(
 );
 
 
-Install Required Package
 
-Install mysql connector using:
-
-pip install mysql-connector-python
-
-
-GUI Modules
-
-Home Page
-
-Rooms
-Patient
-
-Rooms Module
-Add Rooms
-Edit Rooms
-Delete Rooms
-
-Patient Module
-Add Patient
-
-Learning Outcomes:
-This project helps beginners understand:
-
-GUI development using Tkinter
-MySQL database integration
-CRUD operations
-Python event handling
-
-
-Author
-Drishti Singh
-BTech CSE Student
